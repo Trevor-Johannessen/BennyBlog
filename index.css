@@ -1,0 +1,20 @@
+body{
+        
+    background: url("https://i.natgeofe.com/k/8fa25ea4-6409-47fb-b3cc-4af8e0dc9616/red-eyed-tree-frog-on-leaves-3-2_3x4.jpg");
+    background-repeat: norepeat;
+    background-size: cover;
+}
+h1{
+    background:red;
+    color:aqua;
+    font-weight:900;
+    font-size:6em;
+}
+#benny{
+    height: 25vw;
+}
+
+a{
+    font-size:3em;
+    background:white;
+}
